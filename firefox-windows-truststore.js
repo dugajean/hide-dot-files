@@ -1,1 +1,0 @@
-pref("security.enterprise_roots.enabled", true);
